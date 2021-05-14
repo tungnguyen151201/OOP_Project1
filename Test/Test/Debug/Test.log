@@ -1,0 +1,29 @@
+﻿  DiceGame.cpp
+  EnglishVocabulary.cpp
+  Main.cpp
+  RandomFraction.cpp
+D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Test\RandomFraction.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomYear.cpp
+D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Test\RandomYear.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Test.cpp
+D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Test\Test.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+MockRepoV1.lib(BirthdayMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(BirthdayMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+MockRepoV1.lib(CitizenIdMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(CitizenIdMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+MockRepoV1.lib(EmailMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(EmailMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+MockRepoV1.lib(FullnameMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(FullnameMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+MockRepoV1.lib(HcmAddressMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(HcmAddressMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+MockRepoV1.lib(TelephoneMock.obj) : warning LNK4099: PDB 'MockRepoV1.pdb' was not found with 'MockRepoV1.lib(TelephoneMock.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\MockRepoV1.pdb'; linking object as if no debug info
+OopLib.lib(Address.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Address.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(CPhanSo.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(CPhanSo.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(DateTime.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(DateTime.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Dice.obj) : warning LNK4099: PDB '' was not found with 'OopLib.lib(Dice.obj)' or at ''; linking object as if no debug info
+OopLib.lib(District.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(District.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(DynamicArray.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(DynamicArray.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Fullname.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Fullname.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Integer.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Integer.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(MobileNetwork.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(MobileNetwork.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Random.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Random.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Telephone.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Telephone.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+OopLib.lib(Util.obj) : warning LNK4099: PDB 'OopLib.pdb' was not found with 'OopLib.lib(Util.obj)' or at 'D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\OopLib.pdb'; linking object as if no debug info
+  Test.vcxproj -> D:\TUNG\19CTT2\Year 2\HK2\THOOP\Project1\3\Test\Debug\Test.exe
